@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_estacionamientos"
+        android:title="Estacionamientos" android:icon="@drawable/coch" />
+
+    <item
+        android:id="@+id/navigation_lecturas"
+        android:title="Lecturas"
+        android:icon="@drawable/lista" />
+
+    <item
+        android:id="@+id/navigation_registros"
+        android:title="Registros"
+        android:icon="@drawable/hogar" />
+</menu>
