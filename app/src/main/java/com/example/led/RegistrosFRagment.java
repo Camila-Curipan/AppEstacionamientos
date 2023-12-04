@@ -27,6 +27,8 @@ public class RegistrosFRagment extends Fragment {
         CargarLista();
 
     }
+    @Override
+    public void onCreate(){}
 
     private void CargarLista() {
 
